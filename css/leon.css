@@ -105,8 +105,15 @@ body{
     align-items: center;
 }
 /* hna anta ms8r el logo */
-.header .logo{
-    width: 60px;
+.header .logo {
+  color: rgb(0, 145, 255);
+  font-weight: bold;
+  font-size: 15px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 7px;
+  border: 1px solid rgb(86, 21, 238);
+  text-decoration: none;
 }
 /* anta mde position relative 3shan t2dr tt7km fe el 3nsr el abn t7t */
 .header .links{
